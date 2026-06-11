@@ -42,7 +42,17 @@ This project is an interactive Excel Dashboard created to analyze Zomato food de
 
 ## 🖼 Dashboard Screenshots
 
-(Add your dashboard screenshots here after uploading them.)
+### Dashboard
+![Dashboard](6.png)
+
+### Analysis
+![Analysis](2.png)
+![Analysis](3.png)
+![Analysis](4.png)
+![Analysis](5.png)
+
+### Data Sheet
+![Summary](1.png)
 
 ---
 
